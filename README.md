@@ -4,7 +4,7 @@ Open source developer resources for digital trust --  Ressources de développeme
 
 ## Verifiable Credential Wallet - Portefeuille d'informations d'identification vérifiables
 
-- [Aries Mobile Agent React Native / Aries Bifold)](https://github.com/hyperledger/aries-mobile-agent-react-native)
+- [Aries Mobile Agent React Native / Aries Bifold](https://github.com/hyperledger/aries-mobile-agent-react-native)
 - [Aries Framework JavaScript](https://github.com/hyperledger/aries-framework-javascript)
 - [Aries Framework JavaScript Extensions](https://github.com/hyperledger/aries-framework-javascript-ext)
 
