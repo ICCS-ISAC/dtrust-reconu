@@ -12,9 +12,9 @@ Open source developer resources for digital trust --  Ressources de développeme
 
 ### CANdy Dev Ledger - Registres de dev CANdy
 
-- [Genesis files - Fichiers Genesis](./CANdy/dev)
 - [Ledger Browser - Navigateur Ledger](https://candy-dev.cloudcompass.ca/)
 - [Ledger Monitor - Moniteur de Ledger](https://candy.uptime.neoterictech.ca/)
+- [Genesis files - Fichiers Genesis](./CANdy/dev)
 - [Ledger Node Deployment Scripts - Scripts de déploiement de nœud Ledger](https://github.com/CQEN-QDCE/Candy)
 
 ### CANdy Test and Production Ledgers - Registres de test et de production CANdy
