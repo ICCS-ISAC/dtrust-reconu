@@ -5,7 +5,7 @@ Open source developer resources for digital trust --  Ressources de développeme
 ## Verifiable Credential Wallet - Portefeuille d'informations d'identification vérifiables
 
 - [Aries Mobile Agent React Native / Aries Bifold)](https://github.com/hyperledger/aries-mobile-agent-react-native)
-- [Aries Framework JavaScript](https://github.com/yperledger/aries-framework-javascript)
+- [Aries Framework JavaScript](https://github.com/hyperledger/aries-framework-javascript)
 - [Aries Framework JavaScript Extensions](https://github.com/hyperledger/aries-framework-javascript-ext)
 
 ## Ledger Networks - Réseaux de registres
@@ -31,6 +31,7 @@ To Be Added - À ajouter
 
 ## Interoperability - Interopérabilité
 
+- [Interoperability Test Status - État d'interopérabilité](https://aries-interop.info)
 - [Aries Interop Profiles](https://github.com/hyperledger/aries-rfcs/tree/main/concepts/0302-aries-interop-profile)
 - [Aries Interop Profile 2.0](https://github.com/hyperledger/aries-rfcs/tree/main/concepts/0302-aries-interop-profile#aries-interop-profile-version-20)
-- [Interoperability Test Status - État d'interopérabilité](https://aries-interop.info)
+
