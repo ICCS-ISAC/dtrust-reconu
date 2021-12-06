@@ -2,6 +2,12 @@
 
 Open source developer resources for digital trust --  Ressources de développement open source pour la confiance numérique
 
+## Verifiable Credential Wallet - Portefeuille d'informations d'identification vérifiables
+
+- [Aries Mobile Agent React Native / Aries Bifold)](https://github.com/hyperledger/aries-mobile-agent-react-native)
+- [Aries Framework JavaScript](https://github.com/yperledger/aries-framework-javascript)
+- [Aries Framework JavaScript Extensions](https://github.com/hyperledger/aries-framework-javascript-ext)
+
 ## Ledger Networks - Réseaux de registres
 
 ### CANdy Dev Ledger - Registres de dev CANdy
@@ -21,15 +27,7 @@ To Be Added - À ajouter
 
 ## Verifiable Credential Issuers / Verifiers - Émetteurs / vérificateurs d'informations d'identification vérifiables
 
-- [Aries Cloud Agent Python](https://github.com/hyperledger/aries-cloudagent-python)
-- [Issuer Kit - Trousse à l'émetteur](https://github.com/bcgov/issuer-kit)
-- [Verifiable Credential Authentication with OpenID Connect - Verifiable Credential Authentication with OpenID Connect](https://github.com/bcgov/vc-authn-oidc)
-
-## Verifiable Credential Wallet - Portefeuille d'informations d'identification vérifiables
-
-- [Aries Framework JavaScript](https://github.com/yperledger/aries-framework-javascript)
-- [Aries Framework JavaScript Extensions](https://github.com/hyperledger/aries-framework-javascript-ext)
-- [Aries Mobile Agent React Native / Aries Bifold)](https://github.com/hyperledger/aries-mobile-agent-react-native)
+- To Be Added - À ajouter
 
 ## Interoperability - Interopérabilité
 
