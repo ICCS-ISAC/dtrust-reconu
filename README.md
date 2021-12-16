@@ -1,6 +1,6 @@
 # dtrust-reconu
 
-Open source developer resources for digital trust --  Ressources de développement open source pour la confiance numérique
+Open source developer resources for digital trust --  Ressources de développement open source à l'intention du réseau de confiance numérique
 
 ## Verifiable Credential Wallet - Portefeuille d'informations d'identification vérifiables
 
@@ -25,7 +25,7 @@ To Be Added - À ajouter
 
 - [von-network](https://github.com/bcgov/von-network)
 
-## Verifiable Credential Issuers / Verifiers - Émetteurs / vérificateurs d'informations d'identification vérifiables
+## Verifiable Credential Issuers / Verifiers - Émetteurs / vérificateurs d'informations d'identification
 
 - To Be Added - À ajouter
 
