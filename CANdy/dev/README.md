@@ -4,7 +4,7 @@ The CANdy-Dev network is a public based block-chain network - Le réseau de la c
 
 [Hyperledger Indy-Node/noeud](https://github.com/hyperledger/indy-node) 
 
-The source files and configurations used to establish this network can be found in the repository - Le fichier source et les configurations utilisés pour établir ce réseau sont disponibles dans le dépôt suivant :
+The source files and configurations used to establish this network can be found in the repository - Les fichiers sources et les configurations utilisés pour établir ce réseau sont disponibles dans le dépôt suivant :
 
 [CQEN-QDCE/Candy](https://github.com/CQEN-QDCE/Candy)
 
