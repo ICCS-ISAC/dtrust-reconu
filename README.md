@@ -28,8 +28,6 @@ To Be Added - À ajouter
 ## Verifiable Credential Issuers / Verifiers - Émetteurs / consommateur d'attestations vérifiables
 
 - Demo Environments / Environnements de démonstration
-  - [CANdy - Unverified Person Issuer / Émetteur de personne non vérifié (`dev`)](https://openvp-candy-issuer-dev.apps.silver.devops.gov.bc.ca/)
-  - [CANdy - Unverified Person Issuer / Émetteur de personne non vérifié (`test`)](https://openvp-candy-issuer-test.apps.silver.devops.gov.bc.ca/)
   - [CANdy - Unverified Person Issuer / Émetteur de personne non vérifié (`prod`)](https://openvp-candy-dev.vonx.io/)
 
 ## Interoperability - Interpérabilité
